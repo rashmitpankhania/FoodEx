@@ -1,0 +1,12 @@
+div.head{
+
+     border: 15px solid gray;
+     text-align: center;
+     background-color: black;
+   	height: 100px;
+   	width: 1366px;
+}
+
+div.head {
+    font-family: 'Consolas', 'Monaco', 'Bitstream Vera Sans Mono', monospace;
+}
